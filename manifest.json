@@ -1,5 +1,6 @@
 {
   "name": "Daisy_PWA",
+  "short_name": "Daisy_PWA",
   "scope": "./",
   "start_url": "index.html",
   "display": "standalone",
