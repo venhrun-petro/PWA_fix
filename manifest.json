@@ -8,7 +8,7 @@
   "theme_color": "transparent",
   "background_color": "#dc3113",
   "icons": [{
-    "src": "images/icon-0-75x.png",
+    "src": "images/logo.png",
     "sizes": "36x36",
     "type": "image/png",
     "density": 0.75
