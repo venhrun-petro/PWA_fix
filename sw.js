@@ -12,7 +12,7 @@ self.addEventListener('install', (event) => {
     event.waitUntil(
     caches
         .open(CACHE)
-        .then((cache) => cache.addAll(["index.html","compiled.min.css","images/*.png"]))
+        .then((cache) => cache.addAll(["index.html","compiled.min.css","images/*"]))
 );
 });
 
